@@ -10,10 +10,10 @@
 	
 	"ironsdk": "114b18dc5",
 	
-	"appodealkey": "6a3f3c7b45a025d7d7e9ac6cd062cf9bf04d30d78d268abc",
+	"appodealkey": "xxx",
 
-	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
-	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
+	"admobbannerId": "ca-app-pub-7814511321784748/5151488437",
+	"admobInterId": "ca-app-pub-7814511321784748/6422253790",
 	"admobReward": "ca-app-pub-3940256099942544/5224354917",
 	"admobAppOpenid": "ca-app-pub-3940256099942544/5224354917",
 
@@ -21,9 +21,9 @@
 
 
 "adsSwitch detail ": " 1:iron 2:applovin 3:aplodeal 4:admob 0:auto",
-"adsSwitchInter": "3",
-"adsSwitchBanner": "3",
-"adsSwitchReward": "3",
+"adsSwitchInter": "4",
+"adsSwitchBanner": "4",
+"adsSwitchReward": "4",
 
 "adscounter": "1"
 
