@@ -12,8 +12,8 @@
 	
 	"appodealkey": "xxx",
 
-	"admobbannerId": "ca-app-pub-7814511321784748/5151488437",
-	"admobInterId": "ca-app-pub-7814511321784748/6422253790",
+	"admobbannerId": "ca-app-pub-3940256099942544/6300978111",
+	"admobInterId": "ca-app-pub-3940256099942544/1033173712",
 	"admobReward": "ca-app-pub-3940256099942544/5224354917",
 	"admobAppOpenid": "ca-app-pub-3940256099942544/5224354917",
 
@@ -21,9 +21,9 @@
 
 
 "adsSwitch detail ": " 1:iron 2:applovin 3:aplodeal 4:admob 0:auto",
-"adsSwitchInter": "2",
-"adsSwitchBanner": "2",
-"adsSwitchReward": "2",
+"adsSwitchInter": "4",
+"adsSwitchBanner": "4",
+"adsSwitchReward": "4",
 
 "adscounter": "1"
 
